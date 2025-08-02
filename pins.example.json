@@ -1,0 +1,9 @@
+[
+  {
+    "board_id": "1234567890",
+    "image_path": "path/to/image.jpg",
+    "title": "範例標題",
+    "description": "範例描述",
+    "scheduled_time": "2024-12-31T23:59:00Z"
+  }
+]
